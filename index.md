@@ -1,6 +1,6 @@
 ---
 title: Roll your own lazy loading
-layout: default
+layout: simple-layout
 ---
 
 Take a look at [the code on GitHub]({{ pkg.repository.url }}), or read on, for more explanation and examples.
