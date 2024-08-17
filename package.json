@@ -13,6 +13,9 @@
     "build": "eleventy"
   },
   "dependencies": {
-    "@11ty/eleventy": "3.0.0-alpha.13"
+    "@11ty/eleventy": "^3.0.0-alpha.18",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "sass": "^1.77.8",
+    "uglify-js": "^3.19.2"
   }
 }
